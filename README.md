@@ -9,7 +9,7 @@
 
 **NetWatch-Cloud** is a **Python 3** tool designed to take simulated network traffic data from multiple interfaces in a cloud infrastructure, then generate clear visual charts for inbound/outbound bytes over a series of days. It’s built for cloud engineers, network ops teams and infrastructure monitoring folks wanting quick insight into network throughput trends.
 
-------
+----------
 
 ## 🛠 Tech & Languages
 
