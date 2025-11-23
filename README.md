@@ -21,7 +21,7 @@
 | Execution    | Script / Colab / Notebook    | Flexible environment                        |
 | Logging      | Console output + image file  | Quick summary + persisted chart              |
 
----
+-------
 
 ## 🌐 Architecture
 
